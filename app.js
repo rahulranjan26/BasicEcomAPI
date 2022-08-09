@@ -8,7 +8,7 @@ const fileUploads = require('express-fileupload')
 
 // Security
 const rateLimiter = require('express-rate-limit')
-const xss = require('xss')
+const xss = require('xss-clean')
 const helmet = require('helmet')
 const cors = require('cors')
 const mongoSanitize = require('express-mongo-sanitize')
