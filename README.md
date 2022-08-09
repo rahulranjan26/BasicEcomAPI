@@ -1,6 +1,9 @@
 # BasicEcomAPI
 A basic ecom api which includes the basic authentication routes. It has basic securiy features as well. 
 
+## Visit here :
+URL : https://basicecomapi.herokuapp.com/
+
 ## Deployed on Heroku 
 ## API documentation done using docgen
 
